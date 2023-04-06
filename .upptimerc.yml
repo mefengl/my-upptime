@@ -3,9 +3,9 @@ repo: my-upptime
 
 sites:
   - name: OpenAI Chat
-    url: https://chat.openai.com/chat
+    url: https://chat.openai.com
   - name: mefengl Blog
-    url: https://mefengl.me/blog
+    url: https://mefengl.me
   - name: Hacker News
     url: https://news.ycombinator.com
 
