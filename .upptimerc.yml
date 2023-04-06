@@ -2,8 +2,6 @@ owner: mefengl
 repo: my-upptime
 
 sites:
-  - name: OpenAI Chat
-    url: https://chat.openai.com
   - name: mefengl Blog
     url: https://mefengl.me/blog
     __dangerous__insecure: true
