@@ -1,42 +1,42 @@
 [
   {
     "name": "OpenAI Chat",
-    "url": "https://chat.openai.com/chat",
+    "url": "https://chat.openai.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.openai.com.ico",
     "slug": "open-ai-chat",
     "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
-    "time": 65,
-    "timeDay": 65,
-    "timeWeek": 65,
-    "timeMonth": 65,
-    "timeYear": 65,
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 64,
+    "timeDay": 64,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {
-      "2023-04-06": 10
+      "2023-04-06": 13
     }
   },
   {
     "name": "mefengl Blog",
-    "url": "https://mefengl.me/blog",
+    "url": "https://mefengl.me",
     "icon": "https://icons.duckduckgo.com/ip3/mefengl.me.ico",
     "slug": "mefengl-blog",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-06": 10
+      "2023-04-06": 13
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 437,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437,
+    "time": 270,
+    "timeDay": 270,
+    "timeWeek": 270,
+    "timeMonth": 270,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   }
 ]
