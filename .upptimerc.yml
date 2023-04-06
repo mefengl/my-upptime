@@ -6,6 +6,8 @@ sites:
     url: https://chat.openai.com/chat
   - name: mefengl Blog
     url: https://mefengl.me/blog
+  - name: Hacker News
+    url: https://news.ycombinator.com
 
 status-website:
   baseUrl: /my-upptime
