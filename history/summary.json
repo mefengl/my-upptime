@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mefengl.me.ico",
     "slug": "mefengl-blog",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 152,
-    "timeDay": 222,
-    "timeWeek": 144,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 153,
+    "timeDay": 155,
+    "timeWeek": 139,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2023-04-06": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 288,
-    "timeWeek": 363,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "time": 306,
+    "timeDay": 264,
+    "timeWeek": 336,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   }
 ]
